@@ -1,0 +1,1 @@
+console.log(this); // on browser, it will print window object
